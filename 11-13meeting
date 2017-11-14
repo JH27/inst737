@@ -1,3 +1,6 @@
 new features about text for improving prediction accuracy
 text <-- to see if a body text has bilingual
      <-- to see if a body text has code example which can be indicated to be a more complete question or not
+     <-- politeness emotional words . https://pypi.python.org/pypi/politeness/0.1.2
+     https://github.com/sudhof/politeness
+     <-- sentiment analysis
