@@ -1,0 +1,101 @@
+,Id,PostId,Score,Text,CreationDate,UserDisplayName,UserId,positivity_score,negativity_score
+0,38814080,24964538,0,"['php', 'file', 'get', 'sever', 'databas', 'result', 'array', 'string', 'need', 'show', '3', 'differ', 'tpl', 'file', 'tri', 'smarti', 'display', 'updat']",2014-07-26 10:45:07,,2005071.0,0.0,0.0
+1,38814081,24926353,0,"['alway', 'way', 'thing', 'depend', 'use', 'case', 'need', 'hit', 'method', 'param', 'case', ""won't"", 'realli', 'good', 'option']",2014-07-26 10:45:10,,3787750.0,0.06666666666666667,0.0
+2,38814083,24969752,0,"['rohitvat', 'use', 'datagrid', 'data', 'entri', 'user', 'enter', 'first', 'row', 'want', 'provid', 'new', 'row', 'user', 'enter', 'new', 'item']",2014-07-26 10:45:17,,3008788.0,0.0,0.0
+3,38814084,24969862,0,"['frederickcheung', ""it'"", 'simpl', 'thank', 'help', 'mayb', 'want', 'add', 'answer', 'check', 'question', 'answer']",2014-07-26 10:45:18,,3493998.0,0.08333333333333333,0.0
+4,38814085,24970073,0,"['doh', 'miss', 'much', 'appreci', 'start', 'think', 'go', 'crazi']",2014-07-26 10:45:19,,3839120.0,0.0,0.125
+5,38814086,24969932,0,"['chang', ""i'm"", 'tri']",2014-07-26 10:45:19,,3794651.0,0.0,0.0
+6,38814087,24957753,0,"['frank', 'thank', 'well', 'put', 'name', 'shader']",2014-07-26 10:45:30,,1614697.0,0.3333333333333333,0.0
+7,38814090,24967270,0,"['interest', 'question', 'realli', 'program']",2014-07-26 10:45:52,,545127.0,0.25,0.0
+8,38814091,24969635,0,"['hors', 'name', 'next', 'time', ""i'll""]",2014-07-26 10:46:00,user3814846,,0.0,0.0
+9,38814092,24970167,0,"['user', 'type', 'number', 'want', 'button', 'enabl', 'three', 'textbox', 'contain', 'number']",2014-07-26 10:46:02,,3872762.0,0.0,0.0
+10,38814093,24831034,0,"['could', 'pleas', 'show', 'code', 'crop', 'imag']",2014-07-26 10:46:05,,2122991.0,0.0,0.0
+11,38814095,24968975,0,"['laun', 'kinda', 'put', 'lie', 'fact', 'assign', 'loop', ""you'v"", 'shown', ""isn't"", 'overwrit', 'previou', 'valu', 'pure', 'pragmat', 'term']",2014-07-26 10:46:29,,157247.0,0.0,0.0
+12,38814096,24970115,0,"['use', 'slidingmenu', 'librari', 'one', 'app', 'sinc', 'need', 'backward', 'compat', 'librari', 'outdat', 'work', 'pretti', 'well', 'see', 'mani', 'app', 'use', 'librari', 'like', 'linkedin', 'exampl']",2014-07-26 10:46:30,,1708743.0,0.09090909090909091,0.0
+13,38814097,24970131,0,"['need', 'get', '16', 'byte', 'display', 'string', 'via', 'consol', ""don't"", 'know']",2014-07-26 10:46:33,,2475484.0,0.0,0.0
+14,38814098,24960941,0,"['thank', 'imag', 'seem', 'littl', 'stretch', 'found', 'follow', 'code', 'work', 'fine', 'right', 'line', 'thank', 'android', 'adjustviewbound', 'true', 'android', 'scaletyp', 'fitcent']",2014-07-26 10:46:35,,532462.0,0.21052631578947367,0.0
+15,38814099,24969969,0,"['get', 'typecast', 'error', 'see', 'edit', 'answer']",2014-07-26 10:46:38,,3535925.0,0.0,0.0
+16,38814100,24932294,0,"['harder', 'initi', 'thought', 'seem', ""don't"", 'complet', 'answer', 'yet', 'still', 'help', 'lot', 'deserv', 'bounti', 'thank', 'congratul']",2014-07-26 10:46:52,,2904025.0,0.06666666666666667,0.0
+17,38814102,24969213,0,"['hand', 'tri', 'find', 'wich', 'code', 'defin', 'graph', 'name', 'place', 'tri', 'layout', 'part', ""couldn't"", 'find', 'want', 'chang', 'stack', 'mode', 'name', 'appear', 'vertic', 'left', 'side', 'code', 'defin', 'name', 'display', 'datasourc', 'j', 'name', 'graph', 'j', '1', 'line567', 'column66', 'character66']",2014-07-26 10:46:53,,3836391.0,0.0,0.0
+18,38814103,24970177,0,"['tri', 'split', 'sure', 'look']",2014-07-26 10:46:58,,892256.0,0.25,0.0
+19,38814105,24969828,0,"['thank', 'answer', 'pleas', 'share', 'pseudocod', 'multipl', 'oper']",2014-07-26 10:47:03,,3741831.0,0.2857142857142857,0.0
+20,38814107,24969888,0,"['writefil', 'createnewfil', 'imposs', 'find', 'path']",2014-07-26 10:47:06,,3832184.0,0.0,0.0
+21,38814108,24969890,0,"['want', 'style', 'name', 'adr', 'phone']",2014-07-26 10:47:08,,2119788.0,0.0,0.0
+22,38814109,24970070,0,"['user3777110', 'look', 'edit', 'answer', 'queri']",2014-07-26 10:47:12,,998158.0,0.0,0.0
+23,38814110,24969793,0,"['oh', 'wrong', 'like', 'okay', 'var', 'vc', 'alertvc', 'nibnam', 'alertvc', 'bundl', 'nil', 'vc', 'setupdata', 'helper', 'store', 'alertviewwithplacehld', 'self', 'view', 'addsubview', 'vc', 'view']",2014-07-26 10:47:13,,1550974.0,0.14285714285714285,0.047619047619047616
+24,38814111,24970167,0,"['look', 'valid', 'event', '3', 'textbox']",2014-07-26 10:47:15,,1197518.0,0.0,0.0
+25,38814113,24926544,0,"[""can't"", 'directli', 'call', 'super', 'uinavigationcontrol', ""doesn't"", 'publicli', 'conform', 'uinavigationbardeleg', 'result', 'compil', 'error', 'might', 'solut', 'use', 'uinavigationcontrollerdeleg']",2014-07-26 10:47:25,,870671.0,0.0625,0.0
+26,38814114,24969858,0,"['thank', 'answer', 'solv', 'problem']",2014-07-26 10:47:31,,3370495.0,0.25,0.25
+27,38814115,24947581,1,"['first', 'normal', 'form', 'first', 'whole', 'seri', 'normal', 'form', 'discov', 'cours', 'develop', 'relat', 'model', 'first', 'one', 'discov', ""it'"", 'call', 'first', ""it'"", 'least', 'restrict', 'learn', 'data', 'normal', 'learn', 'sever', 'normal', 'form', 'also', 'learn', 'way', 'produc', 'design', 'might', 'better', 'mani', 'design']",2014-07-26 10:47:34,,19937.0,0.02631578947368421,0.0
+28,38814116,10243664,0,"['thank', 'work', '64bit', 'os']",2014-07-26 10:47:34,,1084501.0,0.25,0.0
+29,38814117,14993590,0,"['exactli', 'use', 'code', 'mbluetoothadapt', 'getprofileproxi', 'return', 'fals', 'time', 'idea', 'tri', 'anoth', 'devic', 'see', 'work']",2014-07-26 10:47:34,,747873.0,0.0,0.0
+30,38814119,24967270,0,"['effect', 'ask', 'whether', 'programm', 'use', 'particular', 'site', 'resourc', 'maven', 'central']",2014-07-26 10:47:42,,545127.0,0.0,0.0
+31,38814120,24970131,0,"['well', 'need', 'find', '16', 'byte', 'actual', 'text', 'need', 'convert', 'hex', '4', 'byte', 'sequenc', ""you'r"", 'look', 'definit', '4', 'byte', 'boundari']",2014-07-26 10:47:45,,22656.0,0.05263157894736842,0.0
+32,38814121,24970187,0,"['show', 'css', ""you'r"", 'tri', 'implement']",2014-07-26 10:47:47,,1165646.0,0.0,0.0
+33,38814125,24970171,0,"['code', 'must', 'throw', 'arrayoutofindexexcept']",2014-07-26 10:48:03,,2660367.0,0.0,0.0
+34,38814126,24969793,0,"['alertvc', 'need', 'write', 'also', 'init', 'nibnam', 'nibnameornil', 'string', 'bundl', 'nibbundleornil', 'nsbundl', 'super', 'init', 'nibnam', 'nibnameornil', 'bundl', 'nibbundleornil']",2014-07-26 10:48:06,,1550974.0,0.058823529411764705,0.0
+35,38814127,24970084,0,"['dont', 'get', 'error', 'well', 'css', 'style', 'correct']",2014-07-26 10:48:13,,1696364.0,0.14285714285714285,0.0
+36,38814130,24016358,0,"['thank', 'flavienvolken']",2014-07-26 10:48:31,,1483534.0,0.5,0.0
+37,38814131,24959037,0,"['forum', 'post', 'http', 'www', 'everymanhost', 'com', 'forum', 'viewtop', 'php', 'p', '42', 'might', 'least', 'good', 'start']",2014-07-26 10:48:32,,3438854.0,0.06666666666666667,0.0
+38,38814132,24969793,0,"['edit', 'answer', 'put', 'alertvc', 'subclass', 'view', 'xib', 'class', 'self', 'view', 'addsubview', 'vc', 'look', 'edit', 'answer']",2014-07-26 10:48:32,,1881472.0,0.0,0.0
+39,38814134,12568154,0,"['sukima', 'idea', 'http', '3v4l', 'org', '8fg9e']",2014-07-26 10:48:39,,599857.0,0.0,0.0
+40,38814135,24969036,0,"[""can't"", 'get', 'manag', 'object', 'context', ""shouldn't"", 'fault', 'issu', 'log', 'user', 'object', 'content', 'result', 'directli', 'make', 'request', 'call', 'finish', 'method']",2014-07-26 10:48:46,,1988185.0,0.0,0.05263157894736842
+41,38814136,24969888,0,"['read', 'note', 'mention']",2014-07-26 10:48:50,,3218114.0,0.0,0.0
+42,38814137,24970003,0,"['exampl', 'show', 'singl', 'navig', 'drawer', 'want', 'navig', 'drawer', 'left', 'slideout', 'menu', 'right', 'like', 'googl', 'facebook', 'yet', 'doc', 'seem', 'indic', 'one', 'navig', 'drawer', 'assum', 'slideout', 'menu', 'someth', 'differ']",2014-07-26 10:48:51,,753632.0,0.037037037037037035,0.0
+43,38814138,24970171,0,"['exampl', 'http', 'www', 'ezzylearn', 'com', 'tutori', 'aspx', 'tid', '1659127']",2014-07-26 10:48:53,,3791923.0,0.0,0.0
+44,38814139,24969932,0,"['macstd', 'ok', 'also', 'tri', 'clean', 'project']",2014-07-26 10:49:03,,991085.0,0.16666666666666666,0.0
+45,38814141,24970099,1,"['help', 'info', ""i'm"", 'sure', ""it'"", 'relat', '2', 'question']",2014-07-26 10:49:05,,1065869.0,0.125,0.0
+46,38814142,24969330,0,"['moment', 'alreadi', 'given', 'manipul', 'code', 'itextsharp', 'api', 'job', 'still', 'wonder', 'would', 'possibl', 'make', 'program', 'push', 'button', 'without', 'user', 'interfer', 'thank', 'opinion', 'anyway']",2014-07-26 10:49:07,,3831699.0,0.045454545454545456,0.0
+47,38814143,24969860,0,"['need', 'pass', 'column', 'name', 'search', 'string']",2014-07-26 10:49:07,,3598780.0,0.0,0.0
+48,38814145,20477943,0,"['travisgrigg', 'modifi', '1', 'prevent', 'deadlock', 'main', 'queue', 'specifi', 'completionqueu', 'properti', 'ad', 'pull', 'request', 'http', 'github', 'com', 'afnetwork', 'afnetwork', 'pull', '2092', 'month', 'ago']",2014-07-26 10:49:19,,1271826.0,0.0,0.0
+49,38814146,24967817,0,"['brandonbatton', 'use', 'till', 'anti', 'viru', 'made', 'problem', 'btw', 'shell32', 'dll', 'locat', 'case', 'c', 'window', 'system32', 'shell32', 'dll']",2014-07-26 10:49:31,,3682599.0,0.0,0.058823529411764705
+50,38814147,24970187,0,"['c1', 'b2', 'display', 'none', 'pic', '1half', 'hover', 'c2', 'display', 'none', 'pic', '1half', 'hover', 'b2', 'display', 'block', 'code', 'look', 'silli']",2014-07-26 10:49:34,,3860208.0,0.05263157894736842,0.0
+51,38814149,24912249,0,"['awesom', 'thank', 'much', 'exactli', 'need', 'know']",2014-07-26 10:49:51,,3868872.0,0.16666666666666666,0.0
+52,38814150,24909926,0,"['use', 'charl', 'proxi', 'see', 'sent', 'compar', 'want', 'sent', 'without', 'know', 'server', 'expect', ""can't"", 'say', 'might', 'wrong', 'map']",2014-07-26 10:49:57,,1988185.0,0.0,0.058823529411764705
+53,38814151,24970107,0,"['tri', 'use', 'gnat12', 'instead', 'gnatg']",2014-07-26 10:50:01,,1568010.0,0.0,0.0
+54,38814152,24970039,0,"['check', 'type', 'instanc', 'object', 'cast', 'class', 'want', 'retriev', 'data', 'access', 'myobject', 'name']",2014-07-26 10:50:01,,2538473.0,0.0,0.0
+55,38814153,24969676,1,"['tri', 'disabl', 'warn', 'variabl', 'use', 'pragma', 'pragma', 'warn', 'task', 'ref']",2014-07-26 10:50:03,,2666289.0,0.0,0.0
+56,38814154,24970092,0,"['sql', 'tabl', 'data', 'type', 'date', 'date', 'also', 'chang']",2014-07-26 10:50:11,,2017483.0,0.0,0.0
+57,38814157,24969747,0,"['simonblanck', 'creat', 'codeignit', 'instal', 'use', 'model', 'know', 'model', 'work', 'print', 'r', 'init', 'data', 'get', 'array', 'crew', 'pizza', 'book', 'lanar', 'b', 'kiosk', 'rec', 'c']",2014-07-26 10:50:21,,1558322.0,0.0,0.0
+58,38814158,24946789,0,"['well', 'would', 'domain', '0', 'semain', 'disponibilit', 'denot', 'current', 'chart']",2014-07-26 10:50:24,,1172002.0,0.1111111111111111,0.0
+59,38814160,24967979,0,"['costantineivankin', 'ju', 'put', 'answer']",2014-07-26 10:50:29,,2456721.0,0.0,0.0
+60,38814161,24969505,2,"['anubhava', 'damn', 'right']",2014-07-26 10:50:34,,2706988.0,0.0,0.3333333333333333
+61,38814162,24969860,0,"['need', 'use', 'dynam', 'queri', 'btw', ""that'"", 'altogeth', 'separ', 'question', 'post', 'separ', 'relev', 'inform']",2014-07-26 10:50:35,,567435.0,0.07692307692307693,0.0
+62,38814163,24970184,0,"['would', 'know', 'file', 'extens']",2014-07-26 10:50:38,,1048572.0,0.0,0.0
+63,38814164,24970039,0,"[""simpleadapter'"", 'getitem', 'return', 'object', 'type', 'answer', 'question', 'access', 'foo', ""can't"", 'access', 'object', 'class', 'member', 'believ', 'someth', 'inher', 'wrong', 'probabl', 'see', 'post', 'http', 'stackoverflow', 'com', 'question', '3273834', 'tri', 'get', 'valu', 'text', 'view', 'list', 'view', 'click', 'event', 'android', 'basic', 'need', 'travers', 'button', 'parent', 'lookup', 'textview', 'id', 'get', 'text']",2014-07-26 10:50:39,,2028640.0,0.0,0.021739130434782608
+64,38814165,24968773,0,"['viru', 'check', 'sampl', 'http', 'jsfiddl', 'net', '5w7hr', '4', 'doubl', 'color', 'border', 'like', 'want', 'need', 'separ', 'element', 'vertic', 'separ', 'support', 'width', '25', 'work', 'zoom', 'also']",2014-07-26 10:50:44,,2606013.0,0.08333333333333333,0.0
+65,38814166,19435552,0,"['case', 'tri', 'write', '20', 'byte', 'cbcharacterist', 'caus', 'unknown', 'error', 'thoroughli', 'check', 'specif', 'send', 'byte', 'anyth', 'beyond', '20', 'byte', 'gener', 'error', 'simpl', 'suggest', 'tri', 'send', '20', 'byte', 'data', 'time']",2014-07-26 10:50:52,,2437015.0,0.0,0.0
+66,38814167,24955917,0,"['post', 'updat', 'code', 'disappear', 'mean', 'initi', 'string', 'show', 'coupl', 'second', 'screen', 'textview', 'would', 'text']",2014-07-26 10:50:58,,3333384.0,0.0,0.0
+67,38814168,24970099,0,"['want', 'tell', 'given', 'android', 'layout', 'height', '360dp', 'good', 'practic', 'layout', 'desig']",2014-07-26 10:51:00,,1632209.0,0.09090909090909091,0.0
+68,38814169,24969862,0,"['зелёный', ""don't"", 'know', 'answer', 'sorri', 'mayb', 'help', 'http', 'www', 'codeproject', 'com', 'articl', '575551', 'user', 'authent', 'rubi', 'rail', 'sessions46']",2014-07-26 10:51:03,,3493998.0,0.0,0.0
+69,38814170,24967359,0,"['work', 'queri', 'fail', 'return', 'result', 'sure', 'accept', 'answer', 'work', 'edit', 'other', 'refer']",2014-07-26 10:51:11,,449355.0,0.16666666666666666,0.08333333333333333
+70,38814171,24969752,0,"['select', 'last', 'row', 'commit', 'row', 'press', 'enter', 'edit', 'cell', 'row', 'automat', 'get', 'new', 'row', ""don't"", 'need', 'add', 'manual']",2014-07-26 10:51:15,,632337.0,0.0,0.0
+71,38814172,24969747,0,"['simonblanck', 'also', 'init', 'data', 'cannot', 'undefin', 'variabl', 'like', 'mention', 'comment', 'function']",2014-07-26 10:51:19,,1558322.0,0.09090909090909091,0.0
+72,38814173,24969867,0,"['help', 'use', 'paramet', 'function', 'call', 'c', 'code']",2014-07-26 10:51:27,,870561.0,0.0,0.0
+73,38814174,24962509,0,"['db', 'last', 'insert', 'id', 'remov', 'drupal', '7', 'question', 'refer', 'drupal', '7', ""can't"", 'imagin', 'accept', ""it'"", 'complet', 'wrong']",2014-07-26 10:51:29,,830680.0,0.058823529411764705,0.058823529411764705
+74,38814176,24970084,0,"['perfect', 'fiddler', 'http', 'jsfiddl', 'net', 'qjz2c']",2014-07-26 10:51:38,,2081982.0,0.16666666666666666,0.0
+75,38814177,24970120,0,"['add', 'code', 'loginpanel', 'loginpanela']",2014-07-26 10:51:58,,449946.0,0.0,0.0
+76,38814178,24970214,2,"['blahzix', 'tentri', 'th32ownerprocessid', ""doesn't"", 'convert', 'pid', 'string', 'write', 'pid', 'local', 'variabl', 'leav', 'blahzix', 'point', 'address', 'equal', 'pid']",2014-07-26 10:52:05,,311966.0,0.0,0.0
+77,38814179,24938182,0,"['sashka', 'sorri', 'excess', 'comment', 'clean', 'figur', 'want', 'let', 'know', ""i'v"", 'ad', 'anoth', 'solut', 'refer', 'differ', 'stackoverflow', 'post', 'might', 'appli', 'see', 'help']",2014-07-26 10:52:08,,3280533.0,0.0,0.0
+78,38814181,24969430,0,"['great', 'great', 'great', 'goe', 'good', 'remov', 'nstimer']",2014-07-26 10:52:13,,1066828.0,0.5714285714285714,0.0
+79,38814183,24970141,1,"[""shouldn't""]",2014-07-26 10:52:17,,848164.0,0.0,0.0
+80,38814184,24970141,0,"[""shouldn't"", 'use', ""don't"", 'need']",2014-07-26 10:52:24,,663031.0,0.0,0.0
+81,38814185,24970205,0,"['yeah', 'wrote', 'next', 'sentenc', 'one', 'quot', 'know', ""that'"", 'problem']",2014-07-26 10:52:27,,3212350.0,0.0,0.1111111111111111
+82,38814186,24935471,0,"['michaëlazevedo', 'right', 'kpferrorusernametaken', 'make', 'queri', 'way']",2014-07-26 10:52:28,,1523425.0,0.0,0.0
+83,38814187,23124855,0,"['solv', 'remov', 'oracl', 'java', '8', 'sudo', 'aptitud', 'instal', 'openjdk', '7', 'jdk']",2014-07-26 10:52:35,,108742.0,0.0,0.0
+84,38814188,24969505,2,"['1', 'good', 'updat']",2014-07-26 10:52:40,,548225.0,0.3333333333333333,0.0
+85,38814190,24892276,0,"['partial', 'solut', 'work', 'need', 'know', 'extern', 'program', 'stop', 'run', 'continu', 'matlab', 'script', 'main', 'question', 'remain', 'run', 'extern', 'program', 'influenc', 'execut', 'function', 'instrument', '2', 'oper', 'influenc', 'function', 'instrument', '1', 'oper']",2014-07-26 10:52:55,,3105535.0,0.0,0.0
+86,38814192,24953011,0,"[""shouldn't"", 'alway', 'type', 'object', 'pattern', 'notic', 'map', 'associ', 'map', 'entiti', 'identif', 'attribut']",2014-07-26 10:52:57,,1988185.0,0.0,0.0
+87,38814193,24970099,0,"['tri', 'follow', 'rule', 'given', 'link', 'solv', 'issu']",2014-07-26 10:53:01,,1632209.0,0.0,0.0
+88,38814194,24969652,0,"['method', 'xmpprosterdidendpopul', 'work', 'appdeleg', ""don't"", 'know', 'make', 'work', 'viewcontrol', ""it'"", 'mean', 'make', 'viewcontrol', ""that'"", 'perform', 'segu', 'deleg', 'xmpproster']",2014-07-26 10:53:06,,3878774.0,0.0,0.0
+89,38814195,24966966,0,"['exampl', 'http', 'bl', 'ock', 'org', 'mbostock', '3884955', 'help']",2014-07-26 10:53:08,,1172002.0,0.0,0.0
+90,38814196,18383746,0,"['cdhowi', 'pleas', 'correct', 'claim', 'br', 'br', 'fine', 'confus', 'old', 'parser', 'simpli', 'allow', 'close', 'tag', 'selvclos', 'tag', 'br', 'br', 'valid', 'one']",2014-07-26 10:53:18,,352734.0,0.05,0.05
+91,38814197,24911830,0,"['great', 'thank', 'end', 'get', 'work', 'better', 'method']",2014-07-26 10:53:19,,1874415.0,0.42857142857142855,0.0
+92,38814200,24968444,0,"['fix', 'use', 'adminid', 'yet', 'isnt', 'delet']",2014-07-26 10:53:29,,3879052.0,0.0,0.0
+93,38814202,156868,0,"['first', 'sentenc', ""isn't"", 'true', 'use', 'expectedexcept', 'normal', 'thing', 'set', 'expect', 'immedi', 'line', 'expect', 'throw', 'except', 'way', 'earlier', 'line', 'throw', 'except', ""won't"", 'trigger', 'rule', 'test', 'fail']",2014-07-26 10:53:36,,1081110.0,0.04,0.04
+94,38814203,24942333,0,"['excelnoobie25', 'user3879000', 'make', 'excel', 'point', 'routin', 'gener', 'everi', 'possibl', 'permut', 'sequenc', 'conveni', 'algorithm', 'end', 'first', 'section', 'discuss', 'discard', 'unwant', 'permut', 'code', 'use', 'techniqu', 'code', 'allow', 'player', 'avail', 'multipl', 'posit', 'know', 'littl', 'american', 'footbal', 'number', 'chang', 'could', 'make', 'would', 'elimin', 'perhap', 'problem', 'mention', 'would', 'help', 'given', 'enough', 'think']",2014-07-26 10:53:43,,973283.0,0.02127659574468085,0.02127659574468085
+95,38814205,24970199,0,"['move', 'statement', 'button', ""textbox'"", 'text', 'chang', 'event', 'still', 'work']",2014-07-26 10:54:01,,3872762.0,0.0,0.0
+96,38814207,24958789,0,"['sorri', 'carlosejimenez', 'yesterday', 'internet', 'connect', 'lost', 'due', 'electr', 'way', 'read', 'tutori', 'told', 'yesterday', 'made', 'chang', 'work', 'but', ""doesn't"", 'return', 'exact', 'locat', 'return', 'chang', 'valu', 'time', 'click', 'button', 'retreiv', 'latitud', 'longitud']",2014-07-26 10:54:02,,3492813.0,0.0,0.03333333333333333
+97,38814209,24969134,1,"['could', 'post', 'help', 'http', 'stackoverflow', 'com', 'question', '1014822', 'know', 'window', 'focu', 'chang']",2014-07-26 10:54:22,,2967091.0,0.0,0.0
+98,38814211,24945944,0,"[""you'r"", 'welcom', 'honest', ""don't"", 'think', 'runtim', 'complex', 'reduc', 'task', 'inher', 'requir', 'look', 'remaind', 'list', 'everi', 'element', 'list', 'line', 'mark', 'alreadi', 'serv', 'avoid', 'duplic', 'work', 'order', 'complex', 'remain', 'quadrat', 'edit', 'might', 'abl', 'optim', 'first', 'gener', 'list', 'posit', '1', 'digit', 'howev', 'code', 'would', 'becom', 'complic']",2014-07-26 10:54:24,,1166087.0,0.046511627906976744,0.023255813953488372
+99,38814212,24961092,0,"['could', 'past', 'df', 'head', 'question']",2014-07-26 10:54:28,,1082349.0,0.0,0.0
