@@ -1,0 +1,9 @@
+Xinyun Uploaded sentiment analysis code/csv file on github under Code session. one for comments data one for data1112.
+
+JP found another politeness tool: https://cran.r-project.org/web/packages/politeness/vignettes/politeness.html 
+   has been experimenting with it but hit a wall. He wil try to contact the writers of the tool for more clarification.
+   But in the meantime, will go back to explore the Stanford API politeness tool that we found in the first place.
+   Will try to finish it by the end of this week
+   
+JP will run the html strip code on the test data and provide the results to all/upload teh results since some are having 
+problems installing the package due to java.    
